@@ -1,0 +1,12 @@
+GEM
+  specs:
+    cpf_cnpj (0.5.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  cpf_cnpj
+
+BUNDLED WITH
+   2.5.10
